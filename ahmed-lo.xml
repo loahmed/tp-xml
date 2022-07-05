@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE syllabus SYSTEM "tp.dtd">
+
+<syllabus>
+    <cours code="INF 1442">
+        <description>
+        	<intitule>proba et statistique</intitule>
+            <UE> Informatique </UE>
+            <CT>
+                <credit> 6 </credit>
+                <coef> 2 </coef>
+                <VH>
+                	<CM> 30 </CM>
+                    <TDTP> 15 </TDTP>
+                    <TPE> 15 </TPE>
+                </VH>
+            </CT>
+            <semestre> 1 </semestre>
+            <niveau> Master1 info </niveau>
+            <prerequies> match, phisique, statistique</prerequies>
+        </description>
+        <enseignants nombre = "1" >
+        	<enseignant>
+            	<prenom>Madame</prenom>
+            	<nom>Sall</nom>
+            	<addressbureau> Bat Admin SET </addressbureau>
+            	<couriel> msall@univ-thies.sn </couriel>
+            	<Heurebureau> 09H - 12H </Heurebureau>
+        	</enseignant>
+        </enseignants>
+    </cours>
+</syllabus>
+
